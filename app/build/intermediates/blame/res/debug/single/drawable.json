@@ -1,0 +1,246 @@
+[
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\img_btn_pause.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_stations.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\logo_stations.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\malayali.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\malayali.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radiocity.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\radiocity.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_radiocity.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_radiocity.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo_about.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\logo_about.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_super_94_7.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_super_94_7.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_malayali.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_malayali.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mazhavil.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\mazhavil.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_indicator_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_pause.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\btn_pause.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_play.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\btn_play.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\hungama.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\hungama.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_mazhavil.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_mazhavil.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\gradient_bg.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\side_nav_bar.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\omr.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\omr.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_small_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\red947.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\red947.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_ganam.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_ganam.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\gradient_bg_hover.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\gradient_bg_hover.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_keralafm.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_keralafm.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_fab_background.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_fab_background.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\logo.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\logo.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\img_btn_play.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\raagam.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\raagam.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_play_pressed.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\img_btn_play_pressed.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\keralafm.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\keralafm.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ganam.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\ganam.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\list_selector.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\list_selector.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_red947.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_red947.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\design_snackbar_background.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\23.2.1\\res\\drawable\\design_snackbar_background.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_omr.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_omr.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_raagam.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_raagam.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\img_btn_pause_pressed.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\img_btn_pause_pressed.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\super_94_7.png",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\super_94_7.png"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_hungama.jpg",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\src\\main\\res\\drawable\\icon_hungama.jpg"
+    },
+    {
+        "merged": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "E:\\DEVELOPMENT\\deva\\MalayalamRadio\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.1\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    }
+]
